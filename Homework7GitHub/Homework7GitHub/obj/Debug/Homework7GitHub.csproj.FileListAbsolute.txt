@@ -1,0 +1,7 @@
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\bin\Debug\Homework7GitHub.exe.config
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\bin\Debug\Homework7GitHub.exe
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\bin\Debug\Homework7GitHub.pdb
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\obj\Debug\Homework7GitHub.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\obj\Debug\Homework7GitHub.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\obj\Debug\Homework7GitHub.exe
+C:\Users\Orchikov\source\repos\Homework7GitHub\Homework7GitHub\obj\Debug\Homework7GitHub.pdb
