@@ -10,13 +10,15 @@ namespace M2CLasswork2
     {
         public string name;
         public int count;
+        public string group;
         public string guidStr;
         Guid guid;
 
-        public Person(string name, int count, string guidStr =null)
+        public Person(string name, int count, string group, string guidStr =null)
         {
             this.name = name;
             this.count = count;
+            this.group = group;
             if (this.guidStr == null)
             {
                 guid = Guid.NewGuid();
@@ -27,7 +29,7 @@ namespace M2CLasswork2
 
         public override string ToString()
         {
-            return $"Name: {name}, Count: {count}, Guid: {guid}";
+            return $"Name: {name}, Count: {count}, Group room: {group}, Guid: {guid}";
         }
     }
 }

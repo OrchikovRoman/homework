@@ -28,16 +28,27 @@ namespace M2CLasswork2
         {
             foreach (var athlete in AthletesList)
             {
-                if (athlete.count > 0)
+                if (athlete.count != 0)
                 {
-                    int count = athlete.count--;
-                    Console.WriteLine($"{athlete.name} Approaches left: {count}, Receptionist Masha: \"For a long time: (\"");
+                    for (int i = 0; i < athlete.count; i++)
+                    {
+                        if (athlete.count > 0)
+                        {
+                            int count = athlete.count--;
+                            Console.WriteLine($"{athlete.name} now in {athlete.group}, Approaches left: {count}, Receptionist Masha: \"For a long time: (\"");
+                        }
+                        else 
+                        {
+                            Console.WriteLine($"{athlete.name} finished :D");
+                        }
+                    }
                 }
-                else if (athlete.count == 0)
+                else
                 {
-                    Console.WriteLine($"{athlete.name} finished :D");
+                    Console.Clear();
+                    Console.WriteLine("The gym is empty :(");
                 }
-                //Console.WriteLine("The gym is empty :(");
+
             }
         }
         public static void PrintAthletesList()

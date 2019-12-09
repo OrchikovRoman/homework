@@ -1,0 +1,7 @@
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\obj\Debug\M2Homework2.csprojAssemblyReference.cache
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\obj\Debug\M2Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\obj\Debug\M2CLasswork2.exe
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\obj\Debug\M2CLasswork2.pdb
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\bin\Debug\M2CLasswork2.exe.config
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\bin\Debug\M2CLasswork2.exe
+C:\Users\Orchikov\Downloads\HOMEWORK\M2CLasswork2\M2CLasswork2\bin\Debug\M2CLasswork2.pdb

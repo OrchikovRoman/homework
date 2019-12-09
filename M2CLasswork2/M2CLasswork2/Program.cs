@@ -10,8 +10,8 @@ namespace M2CLasswork2
     {
         static void Main(string[] args)
         {
-            var personOne = new Person("Roman", 10);
-            var personTwo = new Person("Roman Shuvalov", 12);
+            var personOne = new Person("Roman", 10, "Hands room");
+            var personTwo = new Person("Roman Shuvalov", 12, "Legs room");
             PersonsKeeper.Add(personOne);
             PersonsKeeper.Add(personTwo);
             ConsoleStart();
@@ -37,8 +37,24 @@ namespace M2CLasswork2
                         string name = Console.ReadLine();
                         Console.WriteLine("Enter the number of approaches: ");
                         int count = InputCheck();
-
-                        var pers = new Person(name, count);
+                        Console.WriteLine("What are we pumping today? Choose a muscle group:\n1.Hands\n2.Legs\n3.Torso and back");
+                        string group = "";
+                        switch (Console.ReadKey().Key)
+                        {
+                            case ConsoleKey.D1:
+                                group = "Hands room";
+                                break;
+                            case ConsoleKey.D2:
+                                group = "Legs room";
+                                break;
+                            case ConsoleKey.D3:
+                                group = "Torso and back room";
+                                break;
+                            default:
+                                group = "Came for Instagram photos :D";
+                                break;
+                        }
+                        var pers = new Person(name, count, group);
                         PersonsKeeper.Add(pers);
                         break;
 
