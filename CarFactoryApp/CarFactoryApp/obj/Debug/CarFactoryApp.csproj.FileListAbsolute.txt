@@ -1,0 +1,10 @@
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\obj\Debug\CarFactoryApp.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\obj\Debug\CarFactoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\bin\Debug\CarFactoryApp.exe.config
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\bin\Debug\CarFactoryApp.exe
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\bin\Debug\CarFactoryApp.pdb
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\bin\Debug\CarFactoryLibrary.dll
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\bin\Debug\CarFactoryLibrary.pdb
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\obj\Debug\CarFactoryApp.csproj.CopyComplete
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\obj\Debug\CarFactoryApp.exe
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryApp\obj\Debug\CarFactoryApp.pdb

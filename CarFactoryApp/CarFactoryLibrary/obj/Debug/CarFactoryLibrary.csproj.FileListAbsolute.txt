@@ -1,0 +1,6 @@
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\obj\Debug\CarFactoryLibrary.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\obj\Debug\CarFactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\bin\Debug\CarFactoryLibrary.dll
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\bin\Debug\CarFactoryLibrary.pdb
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\obj\Debug\CarFactoryLibrary.dll
+C:\Users\Orchikov\source\repos\CarFactoryApp\CarFactoryLibrary\obj\Debug\CarFactoryLibrary.pdb
