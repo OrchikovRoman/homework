@@ -6,31 +6,36 @@ using System.Threading.Tasks;
 
 namespace CarFactoryLibrary
 {
-    class CreateRandomDetail
+    public class CreateRandomDetail
     {
-        private static Random random = new Random();
+        public static Random random = new Random();
+        public int countWheel;
+        public int countEngine;
+        public int countSteeringWheel;
+        public int countSeat;
+        public int allDetail = 4;
 
-        public static void RandomDetail()
+        public void RandomDetail()
         {
              
         Console.Clear();
-            switch (random.Next(0, Factory.allDetail))
+            switch (random.Next(0, allDetail))
             {
                 case 0:
                     Wheel wheel = new Wheel();
-                    Factory.countWheel++;
+                    countWheel++;
                     break;
                 case 1:
                     Engine engine = new Engine();
-                    Factory.countEngine++;
+                    countEngine++;
                     break;
                 case 2:
                     SteeringWheel steeringWheel = new SteeringWheel();
-                    Factory.countSteeringWheel++;
+                    countSteeringWheel++;
                     break;
                 case 3:
                     Seat seat = new Seat();
-                    Factory.countSeat++;
+                    countSeat++;
                     break;
             }
             Console.WriteLine("Created Random Details");

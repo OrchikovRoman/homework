@@ -11,18 +11,19 @@ namespace CarFactoryApp
     {
         static void Main(string[] args)
         {
-            CarFactoryLibrary.Factory factory = new Factory();
+            Factory factory = new Factory();
+            CreateRandomDetail randomDetail = new CreateRandomDetail();
             bool isMenu = true;
 
             var commands = new Dictionary<ConsoleKey, ICommand>
             {
-                [ConsoleKey.D1] = new CreateCarCommand(factory),
-                [ConsoleKey.D2] = new CreatDetailsCommand(factory),
+                [ConsoleKey.D1] = new CreateCarCommand(factory, randomDetail),
+                [ConsoleKey.D2] = new CreatDetailsCommand(randomDetail),
                 [ConsoleKey.D3] = new PrintListCommand(factory),
             };
             while (isMenu)
             {
-                Console.WriteLine("<Press 1>: Create Car\n<Press 2>: Create Random Details\n<Press 3>: Show list of cars\n<Press Escape>: Exit");
+                Console.WriteLine("<Press 1>: Create Car\n<Press 2>: Create Random Details\n<Press 3>: Show list of complete cars\n<Press Escape>: Exit");
                 var key = Console.ReadKey().Key;
 
                 if (!commands.ContainsKey(key))

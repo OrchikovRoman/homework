@@ -44,7 +44,6 @@
     <Compile Include="Car.cs" />
     <Compile Include="Command.cs" />
     <Compile Include="CreatDetailsCommand.cs" />
-    <Compile Include="CreateAutomobile.cs" />
     <Compile Include="CreateCarCommand.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="Factory.cs" />

@@ -8,15 +8,15 @@ namespace CarFactoryLibrary
 {
     public class CreatDetailsCommand : Command
     {
-        protected Factory factory;
+        protected CreateRandomDetail randomDetail;
 
-        public CreatDetailsCommand(Factory factory)
+        public CreatDetailsCommand(CreateRandomDetail randomDetail)
         {
-            this.factory = factory;
+            this.randomDetail = randomDetail;
         }
         public override void InternalLogic()
         {
-            CreateRandomDetail.RandomDetail();
+            randomDetail.RandomDetail();
         }
     }
 }
