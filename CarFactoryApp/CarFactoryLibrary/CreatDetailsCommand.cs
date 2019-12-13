@@ -16,7 +16,7 @@ namespace CarFactoryLibrary
         }
         public override void InternalLogic()
         {
-            factory.RandomDetail();
+            CreateRandomDetail.RandomDetail();
         }
     }
 }

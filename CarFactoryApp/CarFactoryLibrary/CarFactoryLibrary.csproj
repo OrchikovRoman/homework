@@ -44,11 +44,13 @@
     <Compile Include="Car.cs" />
     <Compile Include="Command.cs" />
     <Compile Include="CreatDetailsCommand.cs" />
+    <Compile Include="CreateAutomobile.cs" />
     <Compile Include="CreateCarCommand.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="Factory.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="PrintListCommand.cs" />
+    <Compile Include="RandomDetail.cs" />
     <Compile Include="Seat.cs" />
     <Compile Include="SteeringWheel.cs" />
     <Compile Include="Wheel.cs" />
