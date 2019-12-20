@@ -1,0 +1,7 @@
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\bin\Debug\DomikBobrov.exe.config
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\bin\Debug\DomikBobrov.exe
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\bin\Debug\DomikBobrov.pdb
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\obj\Debug\DomikBobrov.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\obj\Debug\DomikBobrov.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\obj\Debug\DomikBobrov.exe
+C:\Users\Orchikov\source\repos\DomikBobrov\DomikBobrov\obj\Debug\DomikBobrov.pdb
