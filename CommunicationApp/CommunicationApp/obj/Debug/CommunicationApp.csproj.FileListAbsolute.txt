@@ -1,0 +1,7 @@
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\obj\Debug\CommunicationApp.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\obj\Debug\CommunicationApp.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\bin\Debug\CommunicationApp.exe.config
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\bin\Debug\CommunicationApp.exe
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\bin\Debug\CommunicationApp.pdb
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\obj\Debug\CommunicationApp.exe
+C:\Users\Orchikov\source\repos\CommunicationApp\CommunicationApp\obj\Debug\CommunicationApp.pdb
