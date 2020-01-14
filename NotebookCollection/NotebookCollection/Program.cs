@@ -21,10 +21,12 @@ namespace NotebookCollection
             
             foreach (var notebook in notebookCollection)
                 Console.WriteLine(notebook);
-            //var pupkin = notebookCollection[1];
-            //notebookCollection.Delete(pupkin);
+
+            var pupkin = notebookCollection[2];
+            notebookCollection.Delete(pupkin);
+
             Console.WriteLine("\n========================================\n");
-            notebookCollection.Delete(vasia);
+            
             foreach (var note in notebookCollection)
                 Console.WriteLine(note);
 

@@ -14,8 +14,22 @@ namespace NotebookCollection
         public Node Tail { get; private set; }
         int count;
 
-        public Notebook this[int index] => throw new NotImplementedException();
+        public Notebook this[int index] 
+        {
+            get
+            {
+                Node current = Head;
 
+                if (index < 0) throw new IndexOutOfRangeException();
+                if (current == null) throw new NotImplementedException();
+                for (int i = 1; i < index; i++)
+                {
+                    current = current.NextElement;
+                }
+                return current.Element;
+            }
+        }
+            
 
         public void Add(Notebook value)
         {
@@ -69,12 +83,12 @@ namespace NotebookCollection
                 yield return current.Element;
                 current = current.NextElement;
             }
-        } 
+        }
 
-        //IEnumerator IEnumerable.GetEnumerator()
-        //{
-        //    return ((IEnumerable)this).GetEnumerator();
-        //}
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return ((IEnumerable)this).GetEnumerator();
+        }
 
 
 

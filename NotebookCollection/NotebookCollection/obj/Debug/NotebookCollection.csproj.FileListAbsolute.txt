@@ -5,10 +5,3 @@ C:\Users\Orchikov\source\repos\NotebookCollection\NotebookCollection\obj\Debug\N
 C:\Users\Orchikov\source\repos\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.csproj.CoreCompileInputs.cache
 C:\Users\Orchikov\source\repos\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.exe
 C:\Users\Orchikov\source\repos\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.pdb
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\bin\Debug\NotebookCollection.exe.config
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\bin\Debug\NotebookCollection.exe
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\bin\Debug\NotebookCollection.pdb
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.csprojAssemblyReference.cache
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.csproj.CoreCompileInputs.cache
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.exe
-C:\Users\Orchikov\Downloads\HOMEWORK\NotebookCollection\NotebookCollection\obj\Debug\NotebookCollection.pdb
