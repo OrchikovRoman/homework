@@ -15,9 +15,10 @@ namespace NotebookCollectionTwo_linked
         public override void Add(Notebook value)
         {
             base.Add(value);
+            TwoLinkNode<Notebook> node = new TwoLinkNode<Notebook>(value);
             if (PreviousTail == null)
-                PreviousTail = Head;
-            PreviousTail = PreviousTail.NextElement;
+                node.PreviousElement = Head;
+            node.PreviousElement = node.PreviousElement.NextElement;
         }
         
         public override bool Delete(Notebook value)
