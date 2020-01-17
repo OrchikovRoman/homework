@@ -15,9 +15,9 @@ namespace NotebookCollectionTwo_linked
         public override void Add(Notebook value)
         {
             base.Add(value);
-            if (PreviousTail != null)
-                PreviousTail = PreviousTail.NextElement;
-            PreviousTail = Head;
+            if (PreviousTail == null)
+                PreviousTail = Head;
+            PreviousTail = PreviousTail.NextElement;
         }
         
         public override bool Delete(Notebook value)
