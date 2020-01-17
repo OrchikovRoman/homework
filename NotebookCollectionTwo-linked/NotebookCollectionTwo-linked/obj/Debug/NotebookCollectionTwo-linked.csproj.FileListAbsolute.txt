@@ -1,0 +1,7 @@
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\bin\Debug\NotebookCollectionTwo-linked.exe.config
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\bin\Debug\NotebookCollectionTwo-linked.exe
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\bin\Debug\NotebookCollectionTwo-linked.pdb
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\obj\Debug\NotebookCollectionTwo-linked.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\obj\Debug\NotebookCollectionTwo-linked.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\obj\Debug\NotebookCollectionTwo-linked.exe
+C:\Users\Orchikov\source\repos\NotebookCollectionTwo-linked\NotebookCollectionTwo-linked\obj\Debug\NotebookCollectionTwo-linked.pdb
