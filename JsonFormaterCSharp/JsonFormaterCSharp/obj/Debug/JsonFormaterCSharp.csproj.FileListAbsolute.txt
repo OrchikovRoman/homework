@@ -1,0 +1,10 @@
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\obj\Debug\JsonFormaterCSharp.csprojAssemblyReference.cache
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\obj\Debug\JsonFormaterCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\bin\Debug\JsonFormaterCSharp.exe.config
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\bin\Debug\JsonFormaterCSharp.exe
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\bin\Debug\JsonFormaterCSharp.pdb
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\obj\Debug\JsonFormaterCSharp.csproj.CopyComplete
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\obj\Debug\JsonFormaterCSharp.exe
+C:\Users\Orchikov\source\repos\JsonFormaterCSharp\JsonFormaterCSharp\obj\Debug\JsonFormaterCSharp.pdb
