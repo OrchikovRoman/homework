@@ -26,37 +26,17 @@ namespace JsonFormaterCSharp
                 }
                 else
                 {
-                    if (item == fields[0])
-                    {
-                        var name = item.Name;
-                        var value = item.GetValue(obj);
-                        if (value is string)
-                            text = $"{{\"{name}\":\"{value}\",";
-                        else
-                            text = $"{{\"{name}\":{value},";
-                    }
-                    else if (item == fields.LastOrDefault())
-                    {
-                        var name = item.Name;
-                        var value = item.GetValue(obj);
-                        if (value is string)
-                            text = $"\"{name}\":\"{value}\"}}";
-                        else
-                            text = $"\"{name}\":{value}}}";
-                    }
-                    else
-                    {
                         var name = item.Name;
                         var value = item.GetValue(obj);
                         if (value is string)
                             text = $"\"{name}\":\"{value}\",";
                         else
                             text = $"\"{name}\":{value},";
-                    }
+                   
                     json = json + text;
                 }
             }
-            return json;
+            return json=$"{{{json}}}";
         }
     }
 }
