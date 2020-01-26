@@ -28,11 +28,20 @@ namespace JsonFormaterCSharp
                 {
                         var name = item.Name;
                         var value = item.GetValue(obj);
+                    if (item == fields.LastOrDefault())
+                    {
+                        if (value is string)
+                            text = $"\"{name}\":\"{value}\"";
+                        else
+                            text = $"\"{name}\":{value}";
+                    }
+                    else
+                    {
                         if (value is string)
                             text = $"\"{name}\":\"{value}\",";
                         else
                             text = $"\"{name}\":{value},";
-                   
+                    }
                     json = json + text;
                 }
             }
